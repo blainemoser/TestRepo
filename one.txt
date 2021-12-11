@@ -1,3 +1,0 @@
-This is some test text
-UPDATE
-New Write to File
